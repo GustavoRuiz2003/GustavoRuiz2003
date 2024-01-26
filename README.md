@@ -21,7 +21,7 @@
 
 ###
 
-<img align="left" height="300" src="https://images.squarespace-cdn.com/content/v1/5e4c17267c099a4d625b6fcf/03e2173e-fdaf-40d0-b674-aba71d87b005/future-gaming+%281%29.gif%22"  />
+<img align="left" height="270" src="https://images.squarespace-cdn.com/content/v1/5e4c17267c099a4d625b6fcf/03e2173e-fdaf-40d0-b674-aba71d87b005/future-gaming+%281%29.gif%22"  />
 
 ###
 
